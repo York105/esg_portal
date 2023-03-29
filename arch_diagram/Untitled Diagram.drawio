@@ -1,9 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T12:59:24.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" version="21.1.1" etag="Uh75KbVCbHDyiZhjkLAv" type="github">
-  <diagram name="Page-1" id="PQ9hUMgm1BzBXzmFfFUn">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-03-29T13:08:24.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="t26v0c1iFrlpyYpJYeZw" version="21.1.1" type="github" pages="3">
+  <diagram name="Login screen" id="PQ9hUMgm1BzBXzmFfFUn">
+    <mxGraphModel dx="2954" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dpw1vU6y3iSaXvUkBw6t-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="1080" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="dpw1vU6y3iSaXvUkBw6t-2" value="ESG Login" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="dpw1vU6y3iSaXvUkBw6t-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dpw1vU6y3iSaXvUkBw6t-3" value="https://esg.blackrock.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="dpw1vU6y3iSaXvUkBw6t-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dpw1vU6y3iSaXvUkBw6t-4" value="&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;fontColor=#666666;fontSize=17;verticalAlign=top;whiteSpace=wrap;fillColor=#ffffff;spacingTop=32;" vertex="1" parent="dpw1vU6y3iSaXvUkBw6t-1">
+          <mxGeometry x="320" y="260" width="330" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dpw1vU6y3iSaXvUkBw6t-5" value="Login" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;strokeColor=#666666;align=left;spacingLeft=8;fillColor=#ffffff;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="dpw1vU6y3iSaXvUkBw6t-4">
+          <mxGeometry width="330" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpw1vU6y3iSaXvUkBw6t-6" value="" style="shape=ellipse;strokeColor=#008cff;resizable=0;fillColor=none;html=1;" vertex="1" parent="dpw1vU6y3iSaXvUkBw6t-5">
+          <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-25" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dpw1vU6y3iSaXvUkBw6t-7" value="OK" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=16;fontColor=#666666;strokeColor=#c4c4c4;resizable=0;whiteSpace=wrap;fillColor=#ffffff;" vertex="1" parent="dpw1vU6y3iSaXvUkBw6t-4">
+          <mxGeometry x="0.5" y="1" width="120" height="25" relative="1" as="geometry">
+            <mxPoint x="-60" y="-33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dpw1vU6y3iSaXvUkBw6t-8" value="Username" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="dpw1vU6y3iSaXvUkBw6t-4">
+          <mxGeometry x="11.000000000000002" y="40" width="264" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dpw1vU6y3iSaXvUkBw6t-9" value="John.Mathur@blackrock.com" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="dpw1vU6y3iSaXvUkBw6t-4">
+          <mxGeometry x="11.000000000000002" y="65" width="253.00000000000003" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="dpw1vU6y3iSaXvUkBw6t-10" value="Password" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="dpw1vU6y3iSaXvUkBw6t-4">
+          <mxGeometry x="11" y="114" width="264" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dpw1vU6y3iSaXvUkBw6t-11" value="John.Mathur@blackrock.com" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="dpw1vU6y3iSaXvUkBw6t-4">
+          <mxGeometry x="11" y="139" width="253.00000000000003" height="33" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Dashboard" id="V08ZWKeVfE582BiFhs5g">
+    <mxGraphModel dx="2954" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="yj8lW3kDQJGbcuNKilh--0" />
+        <mxCell id="yj8lW3kDQJGbcuNKilh--1" parent="yj8lW3kDQJGbcuNKilh--0" />
+        <mxCell id="yj8lW3kDQJGbcuNKilh--2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="yj8lW3kDQJGbcuNKilh--1">
+          <mxGeometry x="40" y="40" width="1080" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="yj8lW3kDQJGbcuNKilh--3" value="ESG Home" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="yj8lW3kDQJGbcuNKilh--2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yj8lW3kDQJGbcuNKilh--4" value="https://esg.blackrock.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="yj8lW3kDQJGbcuNKilh--2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QCYVodfQcpXqn6MMjY9N-0" value="Agree as a group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yj8lW3kDQJGbcuNKilh--2">
+          <mxGeometry x="350" y="390" width="290" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Menu" id="KvhUYqku5QClQuc7IRS3">
+    <mxGraphModel dx="2954" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="KoL1Sp_HHsVUyiOFeiZ0-0" />
+        <mxCell id="KoL1Sp_HHsVUyiOFeiZ0-1" parent="KoL1Sp_HHsVUyiOFeiZ0-0" />
+        <mxCell id="KoL1Sp_HHsVUyiOFeiZ0-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="KoL1Sp_HHsVUyiOFeiZ0-1">
+          <mxGeometry x="40" y="40" width="1080" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="KoL1Sp_HHsVUyiOFeiZ0-3" value="ESG Home" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="KoL1Sp_HHsVUyiOFeiZ0-2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KoL1Sp_HHsVUyiOFeiZ0-4" value="https://esg.blackrock.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="KoL1Sp_HHsVUyiOFeiZ0-2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
