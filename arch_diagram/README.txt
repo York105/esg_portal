@@ -1,0 +1,1 @@
+Use this folder to save draw.io architecture diagram.
