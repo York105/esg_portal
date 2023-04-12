@@ -1,0 +1,26 @@
+version: "3.8"
+services:
+  app:
+    restart: always
+    build:
+      context: ./app
+      dockerfile: Dockerfile
+    ports:
+      - 1337:1337
+    volumes:
+      - "./app:/app"
+      - /app/node_modules
+    networks:
+      - private
+  mongo:
+    image: mongo:5.0.5
+    restart: always
+    ports:
+      - 27017:27017
+    volumes:
+      - ./volumes/mongodb:/data/db
+    networks:
+      - private
+
+networks:
+  private:
