@@ -1,3 +1,19 @@
-<div class="bg-primary h1 p-4 m-4 text-center">
-    I love Tiramisu
+<div id="hero" class="bg-primary h1 p-4 m-4 text-center">
+
+    Cake is delicious.
+
 </div>
+
+
+<script type="text/babel">
+    const MainContent = () => {
+        return (
+            <div>
+                <p>I love Tiramisu ...</p>
+            </div>
+        );
+    }
+
+    //render the component to the DOM
+    ReactDOM.render(<MainContent />, document.getElementById('hero'));
+</script>
